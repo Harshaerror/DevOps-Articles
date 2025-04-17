@@ -1,6 +1,10 @@
 ---
 title: "Networking For DevOps"
+seoTitle: "DevOps Networking Essentials"
+seoDescription: "Learn DevOps networking: client-server architecture, protocols, OSI model, and cloud services simplified for better understanding and implementation"
 slug: networking-for-devops
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/82TpEld0_e4/upload/8b537a2f698af6f0684b07efced2b9e5.jpeg
+tags: trainwithshubham, 90daysofdevops
 
 ---
 
