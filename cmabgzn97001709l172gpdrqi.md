@@ -5,6 +5,7 @@ seoDescription: "Discover how Jira enhances Agile project management and collabo
 datePublished: Mon May 05 2025 19:24:58 GMT+0000 (Coordinated Universal Time)
 cuid: cmabgzn97001709l172gpdrqi
 slug: jira-project-management-crucial-for-startups
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1746473262235/ede6768c-06bb-47e8-a55e-79f77dd50f96.jpeg
 tags: development, devops, jira, 90daysofdevops, shubhamlondhe
 
 ---
