@@ -1,6 +1,6 @@
 ---
 title: "Jira - Project Management crucial for startups"
-seoTitle: "Essential Jira Project Management for Startups"
+seoTitle: "Jira's Importance for Startup Project Management"
 seoDescription: "Discover how Jira enhances Agile project management and collaboration for startups with GitHub integration, promoting efficiency and scalability"
 datePublished: Mon May 05 2025 19:24:58 GMT+0000 (Coordinated Universal Time)
 cuid: cmabgzn97001709l172gpdrqi
