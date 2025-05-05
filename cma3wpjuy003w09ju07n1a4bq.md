@@ -1,8 +1,11 @@
 ---
 title: "Contributing to Open Source"
+seoTitle: "Get Started with Open Source"
+seoDescription: "Contribute to open-source projects: clone, create pull requests, and enhance skills while helping the community"
 datePublished: Wed Apr 30 2025 12:22:51 GMT+0000 (Coordinated Universal Time)
 cuid: cma3wpjuy003w09ju07n1a4bq
 slug: contributing-to-open-source
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1746471111788/da6e4815-4605-4a06-ac39-9b176d20ec60.jpeg
 
 ---
 
