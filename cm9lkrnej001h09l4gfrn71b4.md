@@ -16,7 +16,7 @@ DevOps is a collaborative approach where development (creating software) and ope
 
 The architecture of DevOps networking consists of various components working in harmony. Imagine it as a map illustrating how data flows from one point to another.
 
-### Key Components
+## Key Components
 
 * **Client**: The user or device (like your phone or laptop) that requests something, such as opening a website.
     
