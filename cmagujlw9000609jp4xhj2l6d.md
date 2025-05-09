@@ -1,7 +1,7 @@
 ---
 title: "Setting up an Domain for my website"
 seoTitle: "Domain Setup for Website"
-seoDescription: " set up a domain for your website with GitLab, Docker, and Nginx configuration "
+seoDescription: "set up a domain for your website with GitLab, Docker, and Nginx configuration"
 datePublished: Fri May 09 2025 13:43:15 GMT+0000 (Coordinated Universal Time)
 cuid: cmagujlw9000609jp4xhj2l6d
 slug: setting-up-an-domain-for-my-website
