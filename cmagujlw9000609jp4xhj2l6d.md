@@ -23,9 +23,9 @@ let see what i did till now after my GitLab flow i am able to run my app globall
 
 Able to up and run my app on instance that i assigned it to be
 
-Here i noticed that i had not crated an secure website to do that i abyssally need to set up an domain that i already purchase it from GoDaddy configured with A record and setting up an sub domain
+Here i noticed that i had not crated an secure website to do that i obviously need to set up an domain that i already purchase it from GoDaddy configured with A record and setting up an sub domain
 
-Following above commands to Successfully received certificate from catboat sertbot with setting up an Gmail
+Following above commands to Successfully received certificate from catboat with setting up an Gmail
 
 I already had running nginx running on port 80 which i need to be stop
 
