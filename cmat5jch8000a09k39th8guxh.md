@@ -1,0 +1,33 @@
+---
+title: "Angular project with Azure"
+datePublished: Sun May 18 2025 04:24:13 GMT+0000 (Coordinated Universal Time)
+cuid: cmat5jch8000a09k39th8guxh
+slug: angular-project-with-azure
+
+---
+
+here is how i resolve an angular version conflicts and after deployed app using azure cli
+
+```yaml
+npm start
+ng serve 
+npm config get prefix  
+
+npm uninstall -g @angular/cli
+npm install -g @angular/cli
+
+
+npm -v
+nvm install 18.20.4 
+nvm use 18.20.4              
+
+node -v
+
+docker build -t my-app .
+docker build --no-cache -t my-app .
+
+
+azd auth login
+az account set --subscription "cb5cabf4-b6a9-4f13-8534-6ea230faaa2f"
+azd up
+```
